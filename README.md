@@ -1,1 +1,1 @@
-# OpenGLJava
+# 2DJavaGame
